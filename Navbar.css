@@ -1,0 +1,56 @@
+#logobar{
+    background-color: #f1eaea;
+    height: 39px;
+    margin-top: 3px;
+}
+#olxlogo{
+    width: 20px;
+    height: 20px;
+    background-color: #f1eaea;
+}
+
+#car{
+    Margin-left: 46px;
+}
+#building{
+    Margin-left: 46px;
+}
+#searchbar{
+    background-color: #ede6e6;
+    height: 39px;
+}
+#searchbox1{
+    margin-left: 51px;
+    padding: 3px;
+    margin-top: 7px;
+}
+#searchbox{
+    margin-left: 21px;
+}
+#Loginn{
+    margin-left: 874px
+}
+#sellbutton{
+    margin-left: 929px;
+    margin-left: 1379px;
+    display: block;
+    margin-top: -23px;
+    border-block-color: red;
+    border-radius: 11px;
+    padding: 3px 10px;
+}
+#nav1 ul{
+    list-style: none;
+    display: flex;
+    margin-left: 10px;
+}
+li{
+    margin-left: 10px;
+    text-decoration: black;
+}
+#pic5{
+    
+}
+#pic6{
+
+}
